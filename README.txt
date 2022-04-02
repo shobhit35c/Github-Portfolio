@@ -30,3 +30,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
+Building my portfolio page via html5 website, authorized to use this but included proper citing.
